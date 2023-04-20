@@ -1,4 +1,4 @@
-# Welcome to my Github Page
+# Welcome to my Github Page!
 
 #### I began learning web development in the UprightEd Oct 2022 ignition bootcamp, and have been loving it ever since!
 
