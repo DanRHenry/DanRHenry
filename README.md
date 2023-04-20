@@ -1,5 +1,10 @@
-### Hi there 👋
+### Welcome to my Github Page
 
+## I began learning web development in the UprightEd Oct 2022 ignition bootcamp, and have been loving it ever since!
+
+## Please feel free to browse my repositories!
+
+## Find me on [Linkedin](https://www.linkedin.com/in/daniel-henry-07b5836/)
 <!--
 **DanRHenry/DanRHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
