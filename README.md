@@ -1,6 +1,6 @@
 # Welcome to my Github Page!
 
-#### I began learning web development in the UprightEd Oct 2022 ignition bootcamp, and have been loving it ever since!
+#### I began learning web development in Oct 2022, and have been loving it ever since!
 
 #### Please feel free to browse my repositories!
 
